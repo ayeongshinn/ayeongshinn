@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeongshinn&layout=compact&langs_count=5&theme=gruvbox)
-
-
 <b>✨ Tech Stack ✨</b><br>
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,5 +41,10 @@
 <b>📫 Contact 📫</b><br>
 
 ![Gmail](https://img.shields.io/badge/ayeongshinn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeongshinn&layout=compact&langs_count=5&theme=gruvbox)
+
+
 
 </div>
