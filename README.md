@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=200&section=header&text=Welcome%20to%20ayeong's%20Github!&fontSize=40&fontColor=ffffff)
 
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=200&section=header&text=Welcome%20to%20ayeong's%20Github!&fontSize=40&fontColor=ffffff)
 
 <b>✨ Tech Stack ✨</b><br>
   
