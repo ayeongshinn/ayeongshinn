@@ -1,9 +1,9 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=200&section=header&text=ayeong's%20Github&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=200&section=header&text=&fontSize=40&fontColor=ffffff)
 
-<b>✨ Tech Stack ✨</b><br>
+<b>Tech Stack</b><br>
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
